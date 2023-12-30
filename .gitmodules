@@ -1,0 +1,3 @@
+[submodule "vendor/nage"]
+	path = vendor/nage
+	url = https://github.com/Xorrad/nage.git
